@@ -1,5 +1,6 @@
 ---
-manufacturer:
+manufacturer: Play video in background/
+Play pudic in background 
     - tecno
 
 ---
