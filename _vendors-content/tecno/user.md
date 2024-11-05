@@ -1,4 +1,4 @@
----
+---cggdsxvb
 manufacturer:
     - tecno
 
